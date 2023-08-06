@@ -1,4 +1,4 @@
-# Integração da API de Filmes de Halloween com o Google Sheets
+ # Integração da API de Filmes de Halloween com o Google Sheets 🎃
 
 ## Visão Geral
 
@@ -48,5 +48,4 @@ O script utiliza a API do Google Sheets para autenticação e criação de uma n
 
 5. Uma nova planilha do Google Sheets chamada "Halloween Movies" será criada, e os dados de `movies.xlsx` serão enviados para a primeira guia.
 
-Aproveite a análise dos filmes de Halloween! 🎃
 
