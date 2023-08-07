@@ -4,6 +4,7 @@
 
 Este é um projeto em Python desenvolvido para obter dados de 13 filmes da franquia Halloween da API OMDb e armazená-los em uma planilha do Google Sheets. Os filmes são especificados pelos seus títulos e anos de lançamento, e as informações obtidas da API incluem detalhes como título, ano, classificação IMDb e outros.
 
+![Texto em Markdown](https://github.com/naolip/halloweenmovies/blob/main/Workflow.png?raw=true)
 ## Requisitos
 
 Antes de executar o projeto, certifique-se de ter os seguintes requisitos instalados:
